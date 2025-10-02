@@ -1,0 +1,12 @@
+matplotlib
+tensorflow
+seaborn
+numpy
+pandas
+scikit-learn
+tensorboard
+streamlit
+scikeras
+xgboost
+bs4
+lxml

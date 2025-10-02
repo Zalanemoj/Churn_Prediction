@@ -1,0 +1,8 @@
+Reading of the data set
+Removal of unwanted columns from it.
+Splitting into train test split.
+Converting the Categorical column using one hot encoding or label encoding separately for test and train data.
+Using artificial neutral network.
+Prediction from the model.
+Saving the Pickle file of the model and all the label encoder and kind of that.
+Making a streamlit file for uploading it to web.
